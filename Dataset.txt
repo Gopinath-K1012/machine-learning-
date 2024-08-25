@@ -1,0 +1,8 @@
+1.Kaggle(2022). Autism Spectrum Disorder Detection Dataset for Toddlers. 
+[Online]. Available: https://www.kaggle.com/fabdelja/autism-screeningfor-toddlers
+2.UCI(2022). UCI Machine Learning Repository: Autistic Spectrum Disorder Screening Data for Adolescent Data Set. 
+[Online]. Available: https://shorturl.at/fhxCZ
+3.UCI(2022). UCI Machine Learning Repository: Autism Screening Adult Data Set. 
+[Online]. Available: https://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult
+4.UCI(2022). UCI Machine Learning Repository: Autistic Spectrum Disorder Screening Data for Children Data Set. 
+[Online]. Available: https://shorturl.at/fiwLU
